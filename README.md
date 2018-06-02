@@ -1,2 +1,7 @@
-# WorldOfMC
+# WorldOfMC 
+![build passing](https://img.shields.io/badge/build-passing-yellow.svg)
+![client passing](https://img.shields.io/badge/client-passing-brightgreen.svg)
+![server failing](https://img.shields.io/badge/server-failing-red.svg)
+[![HitCount](http://hits.dwyl.io/XDelta/https://github.com/XDelta/WorldOfMC.svg)](http://hits.dwyl.io/XDelta/https://github.com/XDelta/WorldOfMC)
+
 Location for World of Minecraft users to report problems, suggestions and errors.
