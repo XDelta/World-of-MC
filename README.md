@@ -5,7 +5,7 @@
 ![forge required](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fmc.deltawolf.tk%2Fassets%2Fendpoints%2Fforgereq.json)
 
 ![discord](https://img.shields.io/discord/338423324935847937.svg?label=discord)
-[![HitCount](http://hits.dwyl.io/XDelta/https://github.com/XDelta/WorldOfMC.svg)](http://hits.dwyl.io/XDelta/https://github.com/XDelta/WorldOfMC)
+[![HitCount](http://hits.dwyl.io/XDelta/https://github.com/XDelta/World-Of-MC.svg)](http://hits.dwyl.io/XDelta/https://github.com/XDelta/World-Of-MC)
 
 This is the private source repo for the World Of Minecraft Mod.
 
