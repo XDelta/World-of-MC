@@ -7,4 +7,4 @@
 ![discord](https://img.shields.io/discord/338423324935847937.svg?label=discord)
 [![HitCount](http://hits.dwyl.io/XDelta/https://github.com/XDelta/World-Of-MC.svg)](http://hits.dwyl.io/XDelta/https://github.com/XDelta/World-Of-MC)
 
-Report any issues or suggestions for the World of Minecrafr mod here.
+Report any issues or suggestions for the World of Minecraft mod here.
